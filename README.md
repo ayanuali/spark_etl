@@ -66,12 +66,12 @@ What was done:
 - Generated 4-char geohashes for both datasets
 - Used left join to keep all restaurants
 - Avoided data multiplication by: (at first had issue of data getting multiplied)
-  - Taking one day's weather (Oct 15)
-  - Averaging temperatures per geohash
-- Results partitioned by country and city
+  - Taking one day's weather, only Oct 15th
+  - Averaged temperature per geohash
+- Results then partitioned by country and city
 
 ### 4. Results Verification
-Checked final enriched data:
+Checked final enriched data just in case:
 ```scala
 sbt "runMain CheckJoin"
 ```
