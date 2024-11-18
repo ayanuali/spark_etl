@@ -1,0 +1,7 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/ayanuali/development/epam-data-course/epam-spark-etl-task/src/main/scala/WeatherJoin.scala:8:12: comparing values of types Double and Null using `!=` will always yield true[0m
+[0m[[0m[33mwarn[0m] [0m[0m   if (lat != null && lng != null) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/ayanuali/development/epam-data-course/epam-spark-etl-task/src/main/scala/WeatherJoin.scala:8:27: comparing values of types Double and Null using `!=` will always yield true[0m
+[0m[[0m[33mwarn[0m] [0m[0m   if (lat != null && lng != null) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m

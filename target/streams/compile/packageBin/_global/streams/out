@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/ayanuali/development/epam-data-course/epam-spark-etl-task/target/scala-2.12/restaurant-data-enrichment_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RestaurantETL$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ayanuali/development/epam-data-course/epam-spark-etl-task/target/scala-2.12/classes/RestaurantETL$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RestaurantETL.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ayanuali/development/epam-data-course/epam-spark-etl-task/target/scala-2.12/classes/RestaurantETL.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CheckJoin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ayanuali/development/epam-data-course/epam-spark-etl-task/target/scala-2.12/classes/CheckJoin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeatherJoin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ayanuali/development/epam-data-course/epam-spark-etl-task/target/scala-2.12/classes/WeatherJoin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CheckWeatherData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ayanuali/development/epam-data-course/epam-spark-etl-task/target/scala-2.12/classes/CheckWeatherData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RestaurantETL$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ayanuali/development/epam-data-course/epam-spark-etl-task/target/scala-2.12/classes/RestaurantETL$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RestaurantETL$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ayanuali/development/epam-data-course/epam-spark-etl-task/target/scala-2.12/classes/RestaurantETL$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CheckEnrichedData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ayanuali/development/epam-data-course/epam-spark-etl-task/target/scala-2.12/classes/CheckEnrichedData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CheckWeatherData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ayanuali/development/epam-data-course/epam-spark-etl-task/target/scala-2.12/classes/CheckWeatherData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CheckData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ayanuali/development/epam-data-course/epam-spark-etl-task/target/scala-2.12/classes/CheckData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RestaurantETL$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ayanuali/development/epam-data-course/epam-spark-etl-task/target/scala-2.12/classes/RestaurantETL$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CheckData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ayanuali/development/epam-data-course/epam-spark-etl-task/target/scala-2.12/classes/CheckData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CheckJoin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ayanuali/development/epam-data-course/epam-spark-etl-task/target/scala-2.12/classes/CheckJoin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CheckEnrichedData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ayanuali/development/epam-data-course/epam-spark-etl-task/target/scala-2.12/classes/CheckEnrichedData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeatherJoin$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ayanuali/development/epam-data-course/epam-spark-etl-task/target/scala-2.12/classes/WeatherJoin$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeatherJoin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ayanuali/development/epam-data-course/epam-spark-etl-task/target/scala-2.12/classes/WeatherJoin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
