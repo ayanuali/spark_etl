@@ -145,7 +145,7 @@ sbt "runMain CheckWeatherData"
 # [info] +--------+-------+----------+----------+----------+---+
 
 # Fix coordinates
-export OPENCAGE_API_KEY=your_key_here
+export OPENCAGE_API_KEY=opencage_key
 sbt "runMain RestaurantETL $OPENCAGE_API_KEY"
 
 # Join with weather
