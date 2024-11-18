@@ -45,7 +45,7 @@ sbt "runMain CheckWeatherData"
 ```
 Weather data structure:
 - Date range: October 2016
-- Contains: temperature, coordinates
+- What it has: temperature, coordinates
 - Valid coordinate ranges
 
 ### 2. Fix Restaurant Coordinates
