@@ -10,9 +10,10 @@
 ```
 epam-spark-etl-task/
 ├── build.sbt
+├── screenshots                     # screenshots of the results
 ├── src/main/scala/
-│   ├── CheckData.scala             # Restaurant data validation
-│   ├── CheckWeatherData.scala      # Weather data validation
+│   ├── CheckData.scala             # restaurant data validation
+│   ├── CheckWeatherData.scala      # weather data validation
 │   ├── RestaurantETL.scala         # Task: Coordinates fixing
 │   ├── WeatherJoin.scala           # Task: Join and enrichment
 │   └── CheckJoin.scala             # To make sure we verify result
